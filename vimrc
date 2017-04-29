@@ -9,10 +9,9 @@ filetype on
 filetype plugin on
 
 " THEME & LAYOUT
-colorscheme Tomorrow-Night
-set guifont=Menlo\ Regular:h16
+
 set lines=45 columns=140
-set colorcolumn=90
+set colorcolumn=72
 set number
 syntax on
 let g:gitgutter_sign_column_always=1
